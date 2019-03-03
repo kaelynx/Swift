@@ -1,7 +1,4 @@
-//
-//  RandomRectanglesViewController.swift
-//  RandomRectanglesNav
-//
+
 //  Created by Kaelyn Campbell on 11/8/18.
 //  Copyright © 2018 Kaelyn Campbell. All rights reserved.
 //
